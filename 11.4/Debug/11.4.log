@@ -1,0 +1,3 @@
+﻿  11.4.cpp
+E:\pr\11.4\11.4\11.4.cpp(14,2): warning C4091: 'typedef ': ignored on left of 'Data' when no variable is declared
+  11.4.vcxproj -> E:\pr\11.4\Debug\11.4.exe
